@@ -22,5 +22,17 @@
     "otherNames": [],
     "createdAt": "2026-03-23T16:42:46.901Z",
     "updatedAt": "2026-03-23T16:42:46.901Z"
+  },
+  {
+    "id": "batye",
+    "word": "batty",
+    "transliteration": "batye",
+    "translation": "batman",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/YouzJa/assets-sand2/main/images/batye.jpeg",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-23T16:44:39.543Z",
+    "updatedAt": "2026-03-23T16:44:39.543Z"
   }
 ]
