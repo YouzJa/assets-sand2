@@ -10,5 +10,17 @@
     "otherNames": [],
     "createdAt": "2026-03-23T16:41:31.239Z",
     "updatedAt": "2026-03-23T16:41:31.239Z"
+  },
+  {
+    "id": "chadgiga",
+    "word": "gigachad",
+    "transliteration": "chadgiga",
+    "translation": "Chad",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/YouzJa/assets-sand2/main/images/chadgiga.jpg",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-23T16:42:46.901Z",
+    "updatedAt": "2026-03-23T16:42:46.901Z"
   }
 ]
