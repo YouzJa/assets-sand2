@@ -34,5 +34,17 @@
     "otherNames": [],
     "createdAt": "2026-03-23T16:44:39.543Z",
     "updatedAt": "2026-03-23T16:44:39.543Z"
+  },
+  {
+    "id": "hut",
+    "word": "hit",
+    "transliteration": "hut",
+    "translation": "hutt",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/YouzJa/assets-sand2/main/images/hut.jpeg",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-25T15:20:23.719Z",
+    "updatedAt": "2026-03-25T15:20:23.719Z"
   }
 ]
