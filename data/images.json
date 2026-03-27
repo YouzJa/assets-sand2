@@ -46,5 +46,17 @@
     "otherNames": [],
     "createdAt": "2026-03-25T15:20:23.719Z",
     "updatedAt": "2026-03-25T15:20:23.719Z"
+  },
+  {
+    "id": "pngtrans",
+    "word": "pngDev",
+    "transliteration": "pngTrans",
+    "translation": "PNG",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/YouzJa/assets-sand2/main/images/pngtrans.png",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-27T16:43:01.364Z",
+    "updatedAt": "2026-03-27T16:43:01.364Z"
   }
 ]
